@@ -13,7 +13,7 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 <p>...</p>
 
 ## API utilizada
-É uma API que retorna os dados em formato **JSON** https://viacep.com.br
-## Classes utilizadas
-IdHTTP, IdSSLOpenSSL, System.json.  
+A documentação da API utilizada na criação da classe **UnApiViacep.pas** do projeto pode ser acessada neste link: https://viacep.com.br
+## Classes do Delphi utilizadas
+IdHTTP(Indy), IdSSLOpenSSL, System.json.  
 
