@@ -8,7 +8,11 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 <p>var Api : TUnApiViaCep;</p>
 <p>...</p>
 <p>...</p>
+<<<<<<< HEAD
 <p>Api := TUnApoViaCep(142857529); </p>
+=======
+<p>Api := TUnApiViaCep(coloqueaquionumerodocep); </p>
+>>>>>>> origin/master
 <p>showMessage(Api.GetBairro);</p>
 <p>...</p>
 ## API utilizada
