@@ -1,4 +1,3 @@
-
 ## Resumo
 Buscador de endereços por CEP, com a utilização da API **viacep(https://viacep.com.br/)**.
 
@@ -11,7 +10,7 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 <p>var Api : TUnApiViaCep;</p>
 <p>...</p>
 <p>...</p>
-<p>Api := TUnApoViaCep(142857529); </p>
+<p>Api := TUnApoViaCep(coloqueaquionumerodocep); </p>
 <p>showMessage(Api.GetBairro);</p>
 <p>...</p>
 
