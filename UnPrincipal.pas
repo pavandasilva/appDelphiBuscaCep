@@ -20,7 +20,6 @@ type
     edtBairro: TEdit;
     edtLogradouro: TEdit;
     edtCidade: TEdit;
-    IdHTTP1: TIdHTTP;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
