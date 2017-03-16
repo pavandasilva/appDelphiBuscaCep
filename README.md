@@ -15,3 +15,4 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 É uma API que retorna os dados em formato **JSON** https://viacep.com.br
 ## Classes utilizadas
 IdTCPConnection, IdTCPClient, IdHTTP, IdSSLOpenSSL, System.json.  
+
