@@ -10,7 +10,7 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 <p>var Api : TUnApiViaCep;</p>
 <p>...</p>
 <p>...</p>
-<p>Api := TUnApoViaCep(coloqueaquionumerodocep); </p>
+<p>Api := TUnApiViaCep(coloqueaquionumerodocep); </p>
 <p>showMessage(Api.GetBairro);</p>
 <p>...</p>
 
