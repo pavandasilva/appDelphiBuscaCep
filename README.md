@@ -8,7 +8,7 @@ Copie a classe **UnApiViacep.pas** para seu projeto.
 <p><b>var</b> Api : TUnApiViaCep;</p>
 <p>...</p>
 <p>...</p>
-<p>Api := TUnApiViaCep(Digite_o_cep_aqui); </p>
+<p>Api := TUnApiViaCep.Create(Digite_o_cep_aqui); </p>
 <p><b>showMessage</b>(Api.GetBairro);</p>
 <p>...</p>
 
