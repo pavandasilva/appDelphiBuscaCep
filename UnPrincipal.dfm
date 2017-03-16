@@ -46,7 +46,7 @@ object frmPrincipal: TfrmPrincipal
     Top = 8
     Width = 273
     Height = 57
-    Caption = 'Dig'#237'te o CEP:'
+    Caption = 'Digite o CEP:'
     TabOrder = 0
     object edtCEP: TEdit
       Left = 16
