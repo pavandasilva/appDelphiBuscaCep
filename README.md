@@ -3,13 +3,13 @@ Buscador de endereços por CEP, com a utilização da API **viacep(https://viace
 ## Instalação
 Copie a classe **UnApiViacep.pas** para seu projeto.
 ## Exemplo de código
-<p>**uses** UnApiViacep;</p>
+<p><b>uses</b> UnApiViacep;</p>
 <p>...</p>
-<p>**var** Api : TUnApiViaCep;</p>
+<p><b>var</b> Api : TUnApiViaCep;</p>
 <p>...</p>
 <p>...</p>
 <p>Api := TUnApiViaCep(142857529); </p>
-<p>**showMessage**(Api.GetBairro);</p>
+<p><b>showMessage</b>(Api.GetBairro);</p>
 <p>...</p>
 
 ## API utilizada
